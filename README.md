@@ -2,8 +2,11 @@
 Clonación de la interfaz de Google creada con HTML5 y CSS en el bootcamp de Tecnolochicas PRO ft Fundación Televisa.
 # Indice
 1 Introducción
+
 2 Descripcion
+
 3 objetivo
+
 4 enlace de demostración
 # 1. Introducción
 HTML5 trabaja de la mano con CSS3 para crear sitios web que usamos todos los días. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS.
